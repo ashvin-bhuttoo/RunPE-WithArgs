@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="Runner.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stub.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
